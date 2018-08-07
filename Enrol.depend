@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472014750 source:e:\enrol\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1472014750 source:f:\enrol\main.cpp
+	<iostream>
+	<stdlib.h>
+
